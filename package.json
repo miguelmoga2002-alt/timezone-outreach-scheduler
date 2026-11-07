@@ -1,0 +1,15 @@
+{
+  "name": "timezone-outreach-scheduler",
+  "version": "1.0.0",
+  "description": "Daily outreach scheduler that sends each country's queue in its own local morning, with human pacing, daylight-saving safe, and never out of hours.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "demo": "node demo/run.mjs",
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "Miguel Morales García"
+}

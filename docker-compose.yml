@@ -1,0 +1,6 @@
+services:
+  demo:
+    build: .
+  test:
+    build: .
+    command: ["node", "--test"]
