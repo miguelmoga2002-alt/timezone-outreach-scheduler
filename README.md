@@ -13,14 +13,14 @@ of hours.
 
 ## Results in production
 
-Running every day since October 2026 for my own outreach to recruiters:
+Running every day since October 2026 for my own international outreach:
 
 | | |
 |---|---|
-| **Volume** | **30 contacts a day**, 15 in Dublin and 15 in Dubai |
+| **Volume** | **30 contacts a day** across two markets, 15 in Dublin and 15 in Dubai |
 | **Timing** | Every action between **07:00 and 08:00 local time** in its country, all year, through daylight-saving changes |
 | **Time** | About **15 hours a month** of manual sending, tracking and follow-up replaced by unattended daily jobs *(estimate: 30 minutes a day by hand)* |
-| **Feedback** | Accepted connections are detected daily, written to the sheet and sent to my phone |
+| **Feedback** | Responses are detected daily, written to the sheet and sent to my phone |
 
 ## Features
 
@@ -32,11 +32,9 @@ Running every day since October 2026 for my own outreach to recruiters:
   today's window waits for tomorrow.
 - **Queue in Google Sheets:** prioritized and balanced across companies; status and dates are
   written back automatically.
-- **Acceptance tracking:** a daily job marks accepted requests and notifies me on Telegram.
-- **Respects platform limits:** when the platform signals a limit, the campaign pauses until the
-  next day instead of insisting.
-- **Several accounts, one codebase:** a second account runs from the same code with its own config
-  file, so every fix reaches both.
+- **Response tracking:** a daily job records who responded and notifies me on Telegram.
+- **Respects rate limits:** when a channel signals a limit, the campaign pauses until the next
+  day instead of insisting.
 
 ## Quick start
 
@@ -71,8 +69,8 @@ one for each part of the job. More projects: [automation-portfolio](https://gith
 
 ## Want something like this?
 
-I build automations that save teams hours of repetitive work. Contact me through
-[miguelmoralesgarcia.es](https://miguelmoralesgarcia.es) or LinkedIn.
+I build outreach and follow-up automation for sales teams that sell across several markets.
+Contact me through [miguelmoralesgarcia.es](https://miguelmoralesgarcia.es) or LinkedIn.
 
 ## License
 
